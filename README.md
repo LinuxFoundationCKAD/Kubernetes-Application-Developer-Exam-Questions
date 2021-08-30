@@ -38,7 +38,7 @@
 
 <p>We offer a bundle pack that includes Linux Foundation CKAD exam questions in PDF format and the exam practice test software (desktop and web-based) in one value pack. Not only that, we want you to get the best product at an affordable price. You can use the coupon code “SAVE50” and get an exclusive discount of 50% right now.</p>
 
-<h2><strong>Get Linux Foundation Certified</strong></h2>
+<h2><strong>Ace Linux Foundation Certified Kubernetes Application Developer Certification Exam</strong></h2>
 
 <p>The Study4exam Linux Foundation CKAD exam questions are super smooth to use for all types of pupils, including the newer ones. It has particularly affordable rates as compared to the expensive CKAD   exam preparatory courses. By completely availing of the Study4exam CKAD questions, you can efficiently clear the Kubernetes Application Developer exam in the first attempt.<br />
  </p>
