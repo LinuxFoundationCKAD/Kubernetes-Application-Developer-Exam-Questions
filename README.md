@@ -7,7 +7,7 @@ This article will be answering the following questions about Kubernetes Applicat
 •          What are the Domains of Linux Foundation CKAD Exam?
 •          How To Strengthen The CKAD Exam Preparation?
 
-Main Objectives Of Linux Foundation Kubernetes Application Developer Certification
+## Main Objectives Of Linux Foundation Kubernetes Application Developer Certification
 
 The Kubernetes Application Developer Certification is introduced by Linux Foundation and the Cloud Native Computing Foundation (CNCF). Kubernetes engineers, cloud engineers, and other IT professionals will acquire more skills and knowledge to build, deploy, and configure cloud-native applications with Kubernetes. Earning this certification will validate skills of designing, configuring, and exposing cloud-native applications for Kubernetes. You will learn more to accomplish the technical tasks of building, monitoring, and troubleshooting scalable applications and tools. Getting certified will make you capable to use an OCI- Compliant Container Runtime like Docker or rkt. 
  
